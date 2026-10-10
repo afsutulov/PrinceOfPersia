@@ -4,11 +4,11 @@
 
 [Русский](README.ru.md)
 
-Prince of Persia is a desktop Go port of the classic **Prince of Persia** platform adventure. Explore the dungeon and palace, jump over pits, climb ledges, avoid spikes and closing gates, collect potions, fight guards and rescue the princess.
+Prince of Persia is a desktop of the classic **Prince of Persia** platform adventure. Explore the dungeon and palace, jump over pits, climb ledges, avoid spikes and closing gates, collect potions, fight guards and rescue the princess.
 
 ## Screenshots
 
-Actual screenshots of the running Go game.
+Actual screenshots of the running game.
 
 **Dungeon**
 
