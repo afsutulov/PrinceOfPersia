@@ -1,4 +1,4 @@
-# PrinceGo
+# Prince of Persia
 
 <img src="icon.png" width="96" height="96" alt="Prince of Persia icon">
 
